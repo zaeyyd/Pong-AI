@@ -275,7 +275,7 @@ AI.prototype.new_turn = function(){
     console.log('new turn: ' + this.turn);
 
     //hm games til train?
-    if(this.turn > 20){
+    if(this.turn > 10){
         this.train();
         computer.ai_plays = true;
         this.reset();
