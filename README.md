@@ -22,7 +22,7 @@ Small project that I've been working on to learn more about applications of AI.
   model.add(tf.layers.dense({units: 256, inputShape: [512]}));
   model.add(tf.layers.dense({units: 3, inputShape: [256]}));
   ```
-  The first layer takes in 8 data points to train the model:
+  - The first layer takes in 8 data points to train the model:
   
    1.  Player Paddle Location 
    2.  Computer Paddle Location 
@@ -33,7 +33,7 @@ Small project that I've been working on to learn more about applications of AI.
    7.  Previous Player Paddle Location
    8.  Previous Computer Paddle Location
    
-   The forth and final layer outputs 3 data points that determines if the paddle goes left,right or stays in the same location.
+   - The forth and final layer outputs 3 data points that determines if the paddle goes left,right or stays in the same location.
   
 ### Version 1: 
 
