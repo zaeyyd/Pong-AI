@@ -37,11 +37,27 @@ Small project that I've been working on to learn more about applications of AI.
   
 ### Version 1: 
 
-  In Version 1, the AI is trained by collecting data from a human player against a simple computer algorithm which essentially tries to keep the ball aligned with it's paddle at all times for 15 rounds. This is a very small amount of training data, and as a result the AI doesn’t perform very well.
+  **Training**
+  
+  Version 1 was trained on data collected from a human playing against a simple pong computer algorithm for **15 rounds**.
+  
+  **Performance** 
+  
+  Performance was very interesting for a model with such a small training dataset. As seen in the gif at the top of the README, the AI would hit the ball sometimes, and other times it would just stay still and not even attempt to hit the ball. 
+  
+  Another interesting observation was that sometimes the AI would just mimic the human player's moves, irrespective of of the ball's location.
+  
   
 ### Version 2: 
 
-In Version 2
+  **Training**
+  Version 2 was trained on **100,000 rounds** against a computer algorithm (the same algorithm that the a human plays against in Version 1). The computer algorithm essentially tries to keep the paddle aligned with the ball at all times.
+  
+  **Performance** 
+  
+  Performance was much better than Version 1. As seen in the gif at the top of the README, the AI would almost always hit the ball. 
+  
+  The AI was basically being taught to play like the computer algorithm mentioned before, and it succeeded in doing so.
 
 ## Acknowledgments
 
