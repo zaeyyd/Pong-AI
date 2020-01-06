@@ -51,6 +51,7 @@ Small project that I've been working on to learn more about applications of AI.
 ### Version 2: 
 
   **Training**
+  
   Version 2 was trained on **100,000 rounds** against a computer algorithm (the same algorithm that the a human plays against in Version 1). The computer algorithm essentially tries to keep the paddle aligned with the ball at all times.
   
   **Performance** 
