@@ -35,6 +35,14 @@ Small project that I've been working on to learn more about applications of AI.
    
   - The forth and final layer outputs 3 data points that determines if the paddle goes left,right or stays in the same location.
   
+```
+There are 3 main "entities" involved:
+
+ * Human Player
+ * Simple Algorithm (algo that tries that simply tries to keep ball at center of paddle)
+ * AI Algorithm 
+```
+  
 ### Version 1: 
 
   **Training**
