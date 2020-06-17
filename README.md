@@ -2,11 +2,11 @@
 
 Small project that I've been working on to learn more about applications of AI. 
 
- ### Version 1 
+ ### Version 1 (not so great)
  
 ![Gif of Pong v1](v1gif.gif) 
 
- ### Version 2
+ ### Version 2 (much better)
  
 ![Gif of Pong v2](v2gif.gif) 
 
