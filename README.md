@@ -1,6 +1,6 @@
 # Pong-AI
 
-Small project that I've been working on to learn more about applications of AI. 
+Small project that I've built on to learn more about applications of AI. 
 
  ### Version 1 (not so great)
  
